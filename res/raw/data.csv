@@ -1,0 +1,235 @@
+1,Trauma,Universal Patient Care ,11,Universal Patient Care 
+2,Trauma,Tactical Evacuation,12,Tactical Evacuation
+3,Trauma,Hemorrhage,13,Hemorrhage
+4,Trauma,Abdominal Injury,14,Abdominal Injury
+5,Trauma,Chest Trauma,15,Chest Trauma
+6,Trauma,Extremity Trauma,16,Extremity Trauma
+7,Trauma,Multiple Trauma,17,Multiple Trauma
+8,Trauma,Pediatric Multiple Trauma,18,Pediatric Multiple Trauma
+9,Trauma,Head Injury/TBI,19,Head Injury/TBI
+10,Trauma,Burns,20,Burns
+11,Trauma,Electrical Injury,21,Electrical Injury
+12,Trauma,Traumatic Arrest,22,Traumatic Arrest
+13,Trauma,Hypotension/Shock,23,Hypotension/Shock
+14,Trauma,Pediatric Hypotension/Shock,24,Pediatric Hypotension/Shock
+15,Trauma,Crush Syndrome,25,Crush Syndrome
+16,Trauma,Eye Injury/Pain,26,Eye Injury/Pain
+17,Medical,Abdominal Pain,27,Abdominal Pain
+18,Medical,Allergic Reaction,28,Allergic Reaction
+19,Medical,Pediatric Allergic Reaction,29,Pediatric Allergic Reaction
+20,Medical,Altered Mental Status,30,Altered Mental Status
+21,Medical,Pediatric Altered Mental Status,31,Pediatric Altered Mental Status
+22,Medical,Back and Neck Pain,32,Back and Neck Pain
+23,Medical,Epistaxis,33,Epistaxis
+24,Medical,Fever,34,Fever
+25,Medical,Hyperglycemia,35,Hyperglycemia
+26,Medical,Hypoglycemia,36,Hypoglycemia
+27,Medical,Respiratory Distress,37,Respiratory Distress
+28,Medical,Pediatric Respiratory Distress,38,Pediatric Respiratory Distress
+29,Medical,Seizure,39,Seizure
+30,Medical,Pediatric Seizure,40,Pediatric Seizure
+31,Medical,Sepsis,41,Sepsis
+32,Medical,Stroke/TIA Suspected,42,Stroke/TIA Suspected
+33,Medical,Syncope,43,Syncope
+34,Medical,Toxic Ingestions,44,Toxic Ingestions
+35,Medical,Pediatric Toxic Ingestions,45,Pediatric Toxic Ingestions
+36,Medical,Vomiting and Diarrhea,46,Vomiting and Diarrhea
+37,Medical,Pediatric Vomiting and Diarrhea,47,Pediatric Vomiting and Diarrhea
+38,Cardiac,Chest Pain,48,Chest Pain
+39,Cardiac,Cardiac Arrest,49,Cardiac Arrest
+40,Cardiac,Pediatric Cardiac Arrest,50,Pediatric Cardiac Arrest
+41,Cardiac,Pediatric ALS and BLS Indicators,51,Pediatric ALS and BLS Indicators
+42,Cardiac,Bradycardia With Pulse,52,Bradycardia With Pulse
+43,Cardiac,Pediatric Bradycardia With Pulse and Poor Perfusion,53,Pediatric Bradycardia With Pulse and Poor Perfusion
+44,Cardiac,Tachycardia With Pulse,54,Tachycardia With Pulse
+45,Cardiac,Pediatric Tachycardia With Pulse and Adequate Perfusion,55,Pediatric Tachycardia With Pulse and Adequate Perfusion
+46,Cardiac,Pediatric Tachycardia With Pulse and Poor Perfusion,56,Pediatric Tachycardia With Pulse and Poor Perfusion
+47,Cardiac,Post Cardiac Arrest Care,57,Post Cardiac Arrest Care
+48,Cardiac,Hypertension,58,Hypertension
+49,Environmental,Altitude Illness,59,Altitude Illness
+50,Environmental,Animal and Insect Bites/Stings,60,Animal and Insect Bites/Stings
+51,Environmental,Hyperthermia,61,Hyperthermia
+52,Environmental,Hypothermia,62,Hypothermia
+53,Environmental,Snakebite Envenomation Management: General Practice,63,Snakebite Envenomation Management: General Practice
+54,Environmental,Snakebite Clinical Syndromes,64,Snakebite Clinical Syndromes
+55,Environmental,Snakebite Sudden Collapse Syndrome,65,Snakebite Sudden Collapse Syndrome
+56,Environmental,Global Spider and Scorpion Envenomation,66 67,Global Spider and Scorpion Envenomation
+57,Environmental,Widow Spider Envenomation,68,Widow Spider Envenomation
+58,Environmental,Funnel Web Spider Envenomation,69,Funnel Web Spider Envenomation
+59,Environmental,Scorpion Envenomation,70,Scorpion Envenomation
+60,Environmental,Submersion Injury,71,Submersion Injury
+61,CBRN,CBRN Principles,72,CBRN Principles
+62,CBRN,CBRN MARCHE2,76,CBRN MARCHE2
+63,CBRN,CBRN Rapid Identification of Chemical Warfare Agent,77,CBRN Rapid Identification of Chemical Warfare Agent
+64,CBRN,CBRN Nerve Agent,78,CBRN Nerve Agent
+65,CBRN,CBRN Blood Agent,79,CBRN Blood Agent
+66,CBRN,CBRN Pulmonary Agent,80,CBRN Pulmonary Agent
+67,CBRN,CBRN Vesicant-Blister Agent,81,CBRN Vesicant-Blister Agent
+68,CBRN,CBRN Incapacitating Agent,82,CBRN Incapacitating Agent
+69,Special Population,Childbirth,83,Childbirth
+70,Special Population,Newborn Care and Distress,84,Newborn Care and Distress
+71,Special Population,Obstetric Emergency,85,Obstetric Emergency
+72,Special Population,Treatment of Minors,86,Treatment of Minors
+73,Special Population,Sexual Assault,87,Sexual Assault
+74,Special Population,Patient Refusal,89,Patient Refusal
+75,Special Population,Sample Patient Refusal Form,90,Sample Patient Refusal Form
+76,Special Population,Combative Patient,91,Combative Patient
+77,Military Working Dog,MWD Normal Clinical Parameters,92,MWD Normal Clinical Parameters
+78,Military Working Dog,MWD Airway Management,95,MWD Airway Management
+79,Military Working Dog,MWD Heat Injury,97,MWD Heat Injury
+80,Military Working Dog,MWD CPR w/ Drug Chart,98,MWD CPR w/ Drug Chart
+81,Military Working Dog,MWD Analgesia and Sedation ,100,MWD Analgesia and Sedation 
+82,Military Working Dog,MWD Gastric Dilation-Volvulus ,102,MWD Gastric Dilation-Volvulus 
+83,Military Working Dog,MWD Shock Fluid Therapy ,103,MWD Shock Fluid Therapy 
+84,Medications,Drug Chart Personal Foldable Deployable ,104,Drug Chart Personal Foldable Deployable 
+85,Medications,Antibiotic Therapy Chart ,106,Antibiotic Therapy Chart 
+86,Medications,Fluid Volume for Dilution Chart ,107,Fluid Volume for Dilution Chart 
+87,Medications,IV Y-site Compatibility Chart ,108,IV Y-site Compatibility Chart 
+88,Medications,Pressor Priority Chart ,109,Pressor Priority Chart 
+89,Medications,Oxygen ,110,Oxygen 
+90,Medications,Normal Saline 0.9% Sodium Chloride ,111,Normal Saline 0.9% Sodium Chloride 
+91,Medications,Normal Saline Hypertonic 3% ,111,Normal Saline Hypertonic 3% 
+92,Medications,Lactated Ringers (Ringers Lactate/Hartmans) ,112,Lactated Ringers (Ringers Lactate/Hartmans) 
+93,Medications,Dextrose 5% in Water (D5W) ,112,Dextrose 5% in Water (D5W) 
+94,Medications,Plasmalyte A ,113,Plasmalyte A 
+95,Medications,Acetaminophen ,114,Acetaminophen 
+96,Medications,Acetazolamide ,115,Acetazolamide 
+97,Medications,Acetylsalicylic Acid ,116,Acetylsalicylic Acid 
+98,Medications,Activated Charcoal ,117,Activated Charcoal 
+99,Medications,Adenosine ,118,Adenosine 
+100,Medications,Albuterol ,119,Albuterol 
+101,Medications,Amiodarone ,120 121,Amiodarone 
+102,Medications,Amiodarone Infusion Chart ,120 121,Amiodarone Infusion Chart 
+103,Medications,Atropine ,122,Atropine 
+104,Medications,Calcium Chloride ,123,Calcium Chloride 
+105,Medications,Calcium Gluconate ,124,Calcium Gluconate 
+106,Medications,Cefazolin ,125,Cefazolin 
+107,Medications,Dexamethasone ,126,Dexamethasone 
+108,Medications,Dextrose ,127,Dextrose 
+109,Medications,Diazepam ,128,Diazepam 
+110,Medications,Diltiazem ,129,Diltiazem 
+111,Medications,Diphenhydramine ,130,Diphenhydramine 
+112,Medications,Dobutamine ,131,Dobutamine 
+113,Medications,Dopamine ,132 133,Dopamine 
+114,Medications,Dopamine Infusion Chart ,132 133,Dopamine Infusion Chart 
+115,Medications,Epinephrine 1mg/1mL,134 135,Epinephrine 1mg/1mL
+116,Medications,Epinephrine 1mg/1mL Infusion Chart ,134 135,Epinephrine 1mg/1mL Infusion Chart 
+117,Medications,Epinephrine 1mg/10mL,136 137,Epinephrine 1mg/10mL
+118,Medications,Epinephrine 1mg/10mL Infusion Chart ,136 137,Epinephrine 1mg/10mL Infusion Chart 
+119,Medications,Entrapenem ,138,Entrapenem 
+120,Medications,Etomidate ,139,Etomidate 
+121,Medications,Fentanyl ,140,Fentanyl 
+122,Medications,Fentanyl Infusion Chart ,141,Fentanyl Infusion Chart 
+123,Medications,Furosemide ,142,Furosemide 
+124,Medications,Glucagon ,143,Glucagon 
+125,Medications,Heparin ,144,Heparin 
+126,Medications,Hetastarch ,145,Hetastarch 
+127,Medications,Hydromorphone ,146 146,Hydromorphone 
+128,Medications,Hydromorphone Infusion Chart,146 146,Hydromorphone Infusion Chart
+129,Medications,Hydroxocobalamin ,148,Hydroxocobalamin 
+130,Medications,Ketamine ,149 150,Ketamine 
+131,Medications,Ketamine Infusion Chart ,149 150,Ketamine Infusion Chart 
+132,Medications,Ketorolac ,151,Ketorolac 
+133,Medications,Labetalol ,152,Labetalol 
+134,Medications,Levetiracetam ,153,Levetiracetam 
+135,Medications,Lidocaine ,154,Lidocaine 
+136,Medications,Lorazepam ,155,Lorazepam 
+137,Medications,Magnesium Sulfate ,156,Magnesium Sulfate 
+138,Medications,Mannitol ,157,Mannitol 
+139,Medications,Methylprednisolone ,158,Methylprednisolone 
+140,Medications,Metoclopramide ,159,Metoclopramide 
+141,Medications,Metoprolol ,160,Metoprolol 
+142,Medications,Midazolam ,161,Midazolam 
+143,Medications,Morphine ,162,Morphine 
+144,Medications,Moxiflaxacin ,163,Moxiflaxacin 
+145,Medications,Naloxone ,164,Naloxone 
+146,Medications,Nifedipine ,165,Nifedipine 
+147,Medications,Nitroglycerin ,166,Nitroglycerin 
+148,Medications,Norepinephrine ,167 168,Norepinephrine 
+149,Medications,Norepinephrine Infusion Chart ,167 168,Norepinephrine Infusion Chart 
+150,Medications,Ondansetron ,169,Ondansetron 
+151,Medications,Phenylephrine ,170,Phenylephrine 
+152,Medications,Pralidoxime Chloride ,171,Pralidoxime Chloride 
+153,Medications,Procainamide ,172,Procainamide 
+154,Medications,Promethazine ,173,Promethazine 
+155,Medications,Propofol ,174 175,Propofol 
+156,Medications,Popofol Infusion Chart ,174 175,Popofol Infusion Chart 
+157,Medications,Rocuronium ,176,Rocuronium 
+158,Medications,Sodium Bicarbonate ,177,Sodium Bicarbonate 
+159,Medications,Succinylcholine ,178,Succinylcholine 
+160,Medications,Thiamine ,179,Thiamine 
+161,Medications,Tranexamic Acid ,180,Tranexamic Acid 
+162,Medications,Vasopressin ,181,Vasopressin 
+163,Medications,Vecuronium ,182,Vecuronium 
+164,Procedures Airway,Airway ,183,Airway 
+165,Procedures Airway,Pediatric Airway ,184,Pediatric Airway 
+166,Procedures Airway,Airway Pearls,185,Airway Pearls
+167,Procedures Airway,Airway Confirmation,186,Airway Confirmation
+168,Procedures Airway,Blind Insertion Airway Device (BIAD),187,Blind Insertion Airway Device (BIAD)
+169,Procedures Airway,Failed Airway,188,Failed Airway
+170,Procedures Airway,Nasopharyngeal Airway,189,Nasopharyngeal Airway
+171,Procedures Airway,Pre-Intubation Checklist ,190,Pre-Intubation Checklist 
+172,Procedures Airway,Rapid Sequence Intubation (RSI) ,191,Rapid Sequence Intubation (RSI) 
+173,Procedures Airway,Cricothyroidotomy ,192,Cricothyroidotomy 
+174,Procedures Airway,Needle Cricothyroidotomy ,193,Needle Cricothyroidotomy 
+175,Procedures Airway,Simple and Tube Thoracostomy Placement ,194,Simple and Tube Thoracostomy Placement 
+176,Procedures Airway,Needle Thoracostomy ,195,Needle Thoracostomy 
+177,Procedures Airway,Ventilator Management ,196 197 198 199 200 201 202,Ventilator Management 
+178,Procedures Airway,IMPACT 754 Preflight and Troubleshooting ,203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218,IMPACT 754 Preflight and Troubleshooting 
+179,Procedures Airway,IMPACT 731+ Preflight and Troubleshooting ,219 220,IMPACT 731+ Preflight and Troubleshooting 
+180,Procedures Airway,COVID-19 Management ,221 222 223,COVID-19 Management 
+181,Procedures Blood,Hemorrhage Control Procedures ,224 225,Hemorrhage Control Procedures 
+182,Procedures Blood,Tourniquet Application ,226,Tourniquet Application 
+183,Procedures Blood,Junctional Tourniquet Application ,227,Junctional Tourniquet Application 
+184,Procedures Blood,Tourniquet Conversion ,228,Tourniquet Conversion 
+185,Procedures Blood,Vascular Access Intravenous (IV) ,229,Vascular Access Intravenous (IV) 
+186,Procedures Blood,Vascular Access Intraosseous (IO) ,230,Vascular Access Intraosseous (IO) 
+187,Procedures Blood,IV/IO Protocol ,231,IV/IO Protocol 
+188,Procedures Blood,Vascular Access via Central Cath ,232 233 234,Vascular Access via Central Cath 
+189,Procedures Blood,Vascular Access via External Jugular ,235,Vascular Access via External Jugular 
+190,Procedures Blood,En Route Damage Control Resuscitation ,236,En Route Damage Control Resuscitation 
+191,Procedures Blood,Blood Component / Fresh Whole Blood Use ,237 238 239,Blood Component / Fresh Whole Blood Use 
+192,Procedures Blood,Blood Transfusion Related Reactions ,240 241,Blood Transfusion Related Reactions 
+193,Procedures Blood,Blood Glucose Analysis ,242,Blood Glucose Analysis 
+194,Procedures Blood,Invasive Pressure Monitoring ,243,Invasive Pressure Monitoring 
+195,Procedures Blood,REBOA Management ,244,REBOA Management 
+196,Procedures Cardiac,Cardiac Defibrillation ,245,Cardiac Defibrillation 
+197,Procedures Cardiac,ECG 12-Lead Electrocardiogram ,246,ECG 12-Lead Electrocardiogram 
+198,Procedures Cardiac,Synchronized Cardioversion ,247,Synchronized Cardioversion 
+199,Procedures Cardiac,External Cardiac Pacing,248,External Cardiac Pacing
+200,Procedures Cardiac,Withhold Resuscitation,249,Withhold Resuscitation
+201,Procedures Patient Transfers,Altitude Physiology and Patient Transfer,250 251,Altitude Physiology and Patient Transfer
+202,Procedures Patient Transfers,Post-Operative and Critical Care Intrafacility Transfer,252 253 254 256,Post-Operative and Critical Care Intrafacility Transfer
+203,Procedures Patient Transfers,Pre-Transport Checklist,257,Pre-Transport Checklist
+204,Procedures Patient Transfers,Facility Transfer Checklist,258,Facility Transfer Checklist
+205,Procedures Patient Transfers,Patient Safety,259,Patient Safety
+206,Procedures Various,SALT Mass Casualty Triage Algorithms,260,SALT Mass Casualty Triage Algorithms
+207,Procedures Various,Burn Fluid Resuscitation,261,Burn Fluid Resuscitation
+208,Procedures Various,Dental Problems,262,Dental Problems
+209,Procedures Various,Spinal Evaluation and Immobilization,263,Spinal Evaluation and Immobilization
+210,Procedures Various,Foley Catheter Placement,264,Foley Catheter Placement
+211,Procedures Various,Naso/Orogastric Tube,265,Naso/Orogastric Tube
+212,Procedures Various,Pain Management,266,Pain Management
+213,Procedures Various,PEDS Pain Management,267,PEDS Pain Management
+214,Procedures Various,Hypothermia Prevention and Management,268 269,Hypothermia Prevention and Management
+215,Forms,Vital Functions,270 271 272 273,Vital Functions
+216,Forms,Common Laboratory Values,274,Common Laboratory Values
+217,Forms,Useful Calculations,275,Useful Calculations
+218,Forms,Oxygen Cylinder Life,276,Oxygen Cylinder Life
+219,Forms,Lund-Browder Burn Estimate Chart - Adult,277,Lund-Browder Burn Estimate Chart - Adult
+220,Forms,Lund-Browder Burn Estimate Chart - Infant,278,Lund-Browder Burn Estimate Chart - Infant
+221,Forms,Snellen Chart,279,Snellen Chart
+222,Forms,Standard Order Set for Critical Care Transfers,280 281,Standard Order Set for Critical Care Transfers
+223,Forms,ECC Guideline JTS Burn Resuscitation Flow Sheet,282 283 284 285 286,ECC Guideline JTS Burn Resuscitation Flow Sheet
+224,Forms,DA Form 4700 Policy (JTS TACEVAC AAR - PCR),287 288 289 290 291,DA Form 4700 Policy (JTS TACEVAC AAR - PCR)
+225,Forms,DA4700,287 288 289 290 291,DA4700
+226,Forms,MERCuRY,287 288 289 290 291,MERCuRY
+227,Forms,DD 1380 Tactical Combat Casualty Care Card (for POI),292 293 294 295,DD 1380 Tactical Combat Casualty Care Card (for POI)
+228,Forms,Tactical Combat Casualty Care After Action Report,296,Tactical Combat Casualty Care After Action Report
+229,Forms,MWD TC3 Card and Instructions,297 298 299 300 301,MWD TC3 Card and Instructions
+230,Forms,US and NATO MEDEVAC Request Forms,302 303 304,US and NATO MEDEVAC Request Forms
+231,Admin,Drug Box Layout Sample,305 306 307 308 309 310,Drug Box Layout Sample
+232,Admin,Standing Orders,311 312 313 314 315,Standing Orders
+233,Admin,Medical Director/Unit Commander Review and Approval,316,Medical Director/Unit Commander Review and Approval
+234,Admin,Dedication Page,317,Dedication Page
+235,Admin,Summary of Changes,318,Summary of Changes

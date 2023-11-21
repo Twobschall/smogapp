@@ -1,0 +1,288 @@
+<resources>
+    <string name="app_name">SMOG</string>
+    <string-array name="main_list">
+        <item>General Protocols</item>
+        <item>Trauma</item>
+        <item>Medical</item>
+        <item>Cardiac</item>
+        <item>Environmental</item>
+        <item>CBRN</item>
+        <item>Special Population</item>
+        <item>MWD</item>
+        <item>Medications</item>
+        <item>Procedures Airway</item>
+        <item>Procedures Blood</item>
+        <item>Procedures Cardiac</item>
+        <item>Patient Transfers</item>
+        <item>Various</item>
+        <item>Admin</item>
+    </string-array>
+    <string-array name="generalprotocols_sublist">
+        <item>Universal Patient Care</item>
+        <item>Tactical Evacuation</item>
+    </string-array>
+    <string-array name="trauma_sublist">
+        <item>Hemorrhage</item>
+        <item>Abdominal Injury</item>
+        <item>Chest Trauma</item>
+        <item>Extremity Trauma</item>
+        <item>Multiple Trauma</item>
+        <item>Pediatric Multiple Trauma</item>
+        <item>Head Injury/TBI</item>
+        <item>Burns</item>
+        <item>Electrical Injury</item>
+        <item>Traumatic Arrest</item>
+        <item>Hypotension/Shock</item>
+        <item>Pediatric Hypotension/Shock</item>
+        <item>Crush Syndrome</item>
+        <item>Eye Injury/Pain</item>
+    </string-array>
+    <string-array name="medical_sublist">
+        <item>Abdominal Pain</item>
+        <item>Allergic Reaction</item>
+        <item>Pediatric Allergic Reaction</item>
+        <item>Altered Mental Status</item>
+        <item>Pediatric Altered Mental Status</item>
+        <item>Back and Neck Pain</item>
+        <item>Epistaxis</item>
+        <item>Fever</item>
+        <item>Hyperglycemia</item>
+        <item>Hypoglycemia</item>
+        <item>Respiratory Distress</item>
+        <item>Pediatric Respiratory Distress</item>
+        <item>Seizure</item>
+        <item>Pediatric Seizure</item>
+        <item>Sepsis</item>
+        <item>Stroke/TIA Suspected</item>
+        <item>Syncope</item>
+        <item>Toxic Ingestions</item>
+        <item>Pediatric Toxic Ingestions</item>
+        <item>Vomiting and Diarrhea</item>
+        <item>Pediatric Vomiting and Diarrhea</item>
+    </string-array>
+    <string-array name="cardiac_sublist">
+        <item>Chest Pain</item>
+        <item>Cardiac Arrest</item>
+        <item>Pediatric Cardiac Arrest</item>
+        <item>Pediatric ALS and BLS Indicators</item>
+        <item>Bradycardia With Pulse</item>
+        <item>Pediatric Bradycardia With Pulse and Poor Perfusion</item>
+        <item>Tachycardia With Pulse</item>
+        <item>Pediatric Tachycardia With Pulse and Adequate Perfusion</item>
+        <item>Pediatric Tachycardia With Pulse and Poor Perfusion</item>
+        <item>Post Cardiac Arrest Care</item>
+    </string-array>
+    <string-array name="environmental_sublist">
+        <item>Altitude Illness</item>
+        <item>Animal and Insect Bites/Stings</item>
+        <item>Hyperthermia</item>
+        <item>Hypothermia</item>
+        <item>Snakebite Envenomation Management: General Practice</item>
+        <item>Snakebite Clinical Syndromes</item>
+        <item>Snakebite Sudden Collapse Syndrome</item>
+        <item>Global Spider and Scorpion Envenomation</item>
+        <item>Widow Spider Envenomation</item>
+        <item>Funnel Web Spider Envenomation</item>
+        <item>Scorpion Envenomation</item>
+        <item>Submersion Injury</item>
+    </string-array>
+    <string-array name="CBRN_sublist">
+        <item>CBRN Principles</item>
+        <item>CBRN MARCHE2</item>
+        <item>CBRN Rapid Identification of Chemical Warfare Agent</item>
+        <item>CBRN Nerve Agent</item>
+        <item>CBRN Blood Agent</item>
+        <item>CBRN Pulmonary Agent</item>
+        <item>CBRN Vesicant-Blister Agent</item>
+        <item>CBRN Incapacitating Agent</item>
+    </string-array>
+    <string-array name="SpecialPopulation_sublist">
+        <item>Childbirth</item>
+        <item>Newborn Care and Distress</item>
+        <item>Obstetric Emergency</item>
+        <item>Treatment of Minors</item>
+        <item>Sexual Assault</item>
+        <item>Patient Refusal</item>
+        <item>Sample Patient Refusal Form</item>
+        <item>Combative Patient</item>
+    </string-array>
+    <string-array name="MWD_sublist">
+        <item>MWD Normal Clinical Parameters</item>
+        <item>MWD Airway Management</item>
+        <item>MWD Heat Injury</item>
+        <item>MWD CPR w/ Drug Chart</item>
+        <item>MWD Analgesia and Sedation</item>
+        <item>MWD Gastric Dilation-Volvulus</item>
+        <item>MWD Shock Fluid Therapy</item>
+    </string-array>
+    <string-array name="Medication_sublist">
+        <item>Drug Chart Personal Foldable Deployable</item>
+        <item>Antibiotic Therapy Chart</item>
+        <item>Fluid Volume for Dilution Chart</item>
+        <item>IV Y-site Compatibility Chart</item>
+        <item>Pressor Priority Chart</item>
+        <item>Oxygen</item>
+        <item>Normal Saline 0.9% Sodium Chloride</item>
+        <item>Normal Saline Hypertonic 3%</item>
+        <item>Lactated Ringers (Ringers Lactate/Hartmans)</item>
+        <item>Dextrose 5% in Water (D5W)</item>
+        <item>Plasmalyte A</item>
+        <item>Acetaminophen</item>
+        <item>Acetazolamide</item>
+        <item>Acetylsalicylic Acid</item>
+        <item>Activated Charcoal</item>
+        <item>Adenosine</item>
+        <item>Albuterol</item>
+        <item>Amiodarone</item>
+        <item>Amiodarone Infusion Chart</item>
+        <item>Atropine</item>
+        <item>Calcium Chloride</item>
+        <item>Calcium Gluconate</item>
+        <item>Cefazolin</item>
+        <item>Dexamethasone</item>
+        <item>Dextrose</item>
+        <item>Diazepam</item>
+        <item>Diltiazem</item>
+        <item>Diphenhydramine</item>
+        <item>Dobutamine</item>
+        <item>Dopamine</item>
+        <item>Dopamine Infusion Chart</item>
+        <item>Epinephrine 1mg/1mL</item>
+        <item>Epinephrine 1mg/1mL Infusion Chart</item>
+        <item>Epinephrine 1mg/10mL</item>
+        <item>Epinephrine 1mg/10mL Infusion Chart</item>
+        <item>Entrapenem</item>
+        <item>Etomidate</item>
+        <item>Fentanyl</item>
+        <item>Fentanyl Infusion Chart</item>
+        <item>Furosemide</item>
+        <item>Glucagon</item>
+        <item>Heparin</item>
+        <item>Hetastarch</item>
+        <item>Hydromorphone</item>
+        <item>Hydromorphone Infusion Chart</item>
+        <item>Hydroxocobalamin</item>
+        <item>Ketamine</item>
+        <item>Ketamine Infusion Chart</item>
+        <item>Ketorolac</item>
+        <item>Labetalol</item>
+        <item>Levetiracetam</item>
+        <item>Lidocaine</item>
+        <item>Lorazepam</item>
+        <item>Magnesium Sulfate</item>
+        <item>Mannitol</item>
+        <item>Methylprednisolone</item>
+        <item>Metoclopramide</item>
+        <item>Metoprolol</item>
+        <item>Midazolam</item>
+        <item>Morphine</item>
+        <item>Moxiflaxacin</item>
+        <item>Naloxone</item>
+        <item>Nifedipine</item>
+        <item>Nitroglycerin</item>
+        <item>Norepinephrine</item>
+        <item>Norepinephrine Infusion Chart</item>
+        <item>Ondansetron</item>
+        <item>Phenylephrine</item>
+        <item>Pralidoxime Chloride</item>
+        <item>Procainamide</item>
+        <item>Promethazine</item>
+        <item>Propofol</item>
+        <item>Popofol Infusion Chart</item>
+        <item>Rocuronium</item>
+        <item>Sodium Bicarbonate</item>
+        <item>Succinylcholine</item>
+        <item>Thiamine</item>
+        <item>Tranexamic Acid</item>
+        <item>Vasopressin</item>
+        <item>Vecuronium</item>
+    </string-array>
+    <string-array name="ProceduresAirway_sublist">
+        <item>Airway</item>
+        <item>Pediatric Airway</item>
+        <item>Airway Pearls</item>
+        <item>Airway Confirmation</item>
+        <item>Blind Insertion Airway Device (BIAD)</item>
+        <item>Failed Airway</item>
+        <item>Nasopharyngeal Airway</item>
+        <item>Pre-Intubation Checklist</item>
+        <item>Rapid Sequence Intubation (RSI)</item>
+        <item>Cricothyroidotomy</item>
+        <item>Needle Cricothyroidotomy</item>
+        <item>Simple and Tube Thoracostomy Placement</item>
+        <item>Needle Thoracostomy</item>
+        <item>Ventilator Management</item>
+        <item>IMPACT 754 Preflight and Troubleshooting</item>
+        <item>IMPACT 731+ Preflight and Troubleshooting</item>
+        <item>COVID-19 Management</item>
+    </string-array>
+    <string-array name="ProceduresBlood_sublist">
+        <item>Hemorrhage Control Procedures</item>
+        <item>Tourniquet Application</item>
+        <item>Junctional Tourniquet Application</item>
+        <item>Tourniquet Conversion</item>
+        <item>Vascular Access Intravenous (IV)</item>
+        <item>Vascular Access Intraosseous (IO)</item>
+        <item>IV/IO Protocol</item>
+        <item>Vascular Access via Central Cath</item>
+        <item>Vascular Access via External Jugular</item>
+        <item>En Route Damage Control Resuscitation</item>
+        <item>Blood Component / Fresh Whole Blood Use</item>
+        <item>Blood Transfusion Related Reactions</item>
+        <item>Blood Glucose Analysis</item>
+        <item>Invasive Pressure Monitoring</item>
+        <item>REBOA Management</item>
+    </string-array>
+    <string-array name="ProceduresCardiac_sublist">
+        <item>Cardiac Defibrillation</item>
+        <item>ECG 12-Lead Electrocardiogram</item>
+        <item>Synchronized Cardioversion</item>
+        <item>External Cardiac Pacing</item>
+        <item>Withhold Resuscitation</item>
+    </string-array>
+    <string-array name="ProceduresPatientTransfers_sublist">
+        <item>Altitude Physiology and Patient Transfer</item>
+        <item>Post-Operative and Critical Care Intrafacility Transfer</item>
+        <item>Pre-Transport Checklist</item>
+        <item>Facility Transfer Checklist</item>
+        <item>Patient Safety</item>
+    </string-array>
+    <string-array name="ProceduresVarious_sublist">
+        <item>SALT Mass Casualty Triage Algorithms</item>
+        <item>Burn Fluid Resuscitation</item>
+        <item>Dental Problems</item>
+        <item>Spinal Evaluation and Immobilization</item>
+        <item>Foley Catheter Placement</item>
+        <item>Naso/Orogastric Tube</item>
+        <item>Pain Management</item>
+        <item>PEDS Pain Management</item>
+        <item>Hypothermia Prevention and Management</item>
+    </string-array>
+    <string-array name="Forms_sublist">
+        <item>Vital Functions</item>
+        <item>Common Laboratory Values</item>
+        <item>Useful Calculations</item>
+        <item>Oxygen Cylinder Life</item>
+        <item>Lund-Browder Burn Estimate Chart - Adult</item>
+        <item>Lund-Browder Burn Estimate Chart - Infant</item>
+        <item>Snellen Chart</item>
+        <item>Standard Order Set for Critical Care Transfers</item>
+        <item>ECC Guideline JTS Burn Resuscitation Flow Sheet</item>
+        <item>DA Form 4700 Policy (JTS TACEVAC AAR - PCR)</item>
+        <item>DA4700</item>
+        <item>MERCuRY</item>
+        <item>DD 1380 Tactical Combat Casualty Care Card (for POI)</item>
+        <item>Tactical Combat Casualty Care After Action Report</item>
+        <item>MWD TC3 Card and Instructions</item>
+        <item>US and NATO MEDEVAC Request Forms</item>
+    </string-array>
+    <string-array name="Admin_sublist">
+        <item>Drug Box Layout Sample</item>
+        <item>Standing Orders</item>
+        <item>Medical Director/Unit Commander Review and Approval</item>
+        <item>Dedication Page</item>
+        <item>Summary of Changes</item>
+    </string-array>
+
+
+</resources>
